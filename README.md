@@ -1,24 +1,11 @@
 # flow-catalog
 
-## Project setup
-```
-npm install
-```
+This application has been built to host a simple Vue.js application which displays in an elegant way the CloudBees Flow plugins catalog (available as XML file).
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Information contains:
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+* plugin name
+* latest plugin version
+* description
+* link to the Help file
+* Download link
