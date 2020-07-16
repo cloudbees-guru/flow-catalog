@@ -54,7 +54,6 @@ export default {
           if(err) {
             //Do something
           } else {
-            console.log(result.plugins.plugin)
             vm.plugins = result.plugins.plugin
           }
         }
